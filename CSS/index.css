@@ -68,3 +68,10 @@ img{
     max-height:40px; 
     border-radius: 50%;
 }
+
+@media screen and (max-width: 864px){
+    .head_container p {
+        max-width: 80vw;
+        text-align: center;
+      }
+}
